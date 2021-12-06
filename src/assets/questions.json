@@ -1,0 +1,161 @@
+{
+    "questions": [{
+            "questionText": "What does HTML stand for?",
+            "options": [{
+                    "text": "Hypertext Machine language",
+                    "correct": true
+                },
+                {
+                    "text": "Hypertext and links markup language"
+                },
+                {
+                    "text": "Hypertext Markup Language",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "Hightext machine language"
+                }
+            ]
+            
+        },
+        {
+            "questionText": "How is document type initialized in HTML5 ?",
+            "options": [{
+                    "text": "</DOCTYPE HTML>"
+                },
+                {
+                    "text": "</DOCTYPE>"
+                },
+                {
+                    "text": "</DOCTYPE html>"
+                },
+                {
+                    "text": "<!DOCTYPE HTML>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following HTML Elements is used for making any text bold ?",
+            "options": [{
+                    "text": "<p>"
+                },
+                {
+                    "text": "<b>",
+                    "correct": true
+                },
+                {
+                    "text": "<i>."
+                },
+                {
+                    "text": "<br>"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following HTML element is used for creating an unordered list?",
+            "options": [{
+                    "text": "<ui>"
+                },
+                {
+                    "text": "<ul>",
+                    "correct": true
+                },
+                {
+                    "text": "<em>"
+                },
+                {
+                    "text": "<i>"
+                }
+            ]
+            
+        },
+        {
+            "questionText": "Which of the following characters indicate closing of a tag?",
+            "options": [{
+                    "text": "/",
+                    "correct": true
+                },
+                {
+                    "text": "!"
+                },
+                {
+                    "text": ">"
+                },
+                {
+                    "text": "<"
+                }
+            ]
+            
+        },
+        {
+            "questionText": "What is the font-size of the h1 heading tag?",
+            "options": [{
+                    "text": "3.5 em"
+                },
+                {
+                    "text": "2.5 em"
+                },
+                {
+                    "text": "1.5 em"
+                },
+                {
+                    "text": "2 em",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "How many heading tags are there in HTML5?",
+            "options": [{
+                    "text": "3"
+                },
+                {
+                    "text": "6",
+                    "correct": true
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "5"
+                }
+            ]
+        },
+        {
+            "questionText": "How many attributes are there in HTML5?",
+            "options": [{
+                    "text": "2",
+                    "correct": true
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": "5"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following attributes is used to add link to any element?",
+            "options": [{
+                    "text": "href",
+                    "correct": true
+                },
+                {
+                    "text": "link"
+                },
+                {
+                    "text": "ref"
+                },
+                {
+                    "text": "newref"
+                }
+            ]
+        }
+    ]
+}
